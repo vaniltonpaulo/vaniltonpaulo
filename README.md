@@ -20,9 +20,9 @@ Currently overseeing collaborative initiatives aimed at optimizing integration p
 ---
 
 ## Tech Playground
-Web frameworks with batteries included only 
-Automating workflows for cavemens
-Cloud alchemy with Docker & Kubernetes 
+- Web frameworks with batteries included only 
+- Automating workflows for cavemens
+- Cloud alchemy with Docker & Kubernetes 
 ---
 
 > "Real engineers don’t delete code…  
