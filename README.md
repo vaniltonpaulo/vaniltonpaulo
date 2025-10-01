@@ -10,10 +10,10 @@ Currently overseeing collaborative initiatives aimed at optimizing integration p
 -  Python (snake charming at scale)  
 -  SQL (teaching databases to spill their secrets)  
 -  Django & Flask (web frameworks with batteries)  
--  Java & Spring Boot (hopefully , I can get a job from this)  
+-  Java & Spring Boot (hopefully , I can get a job from this)  (2026)
 -  n8n (because automating your automations is the real endgame)  
 -  JavaScript  
--  ML libraries (scikit-learn, TensorFlow, PyTorch)  
+-  ML libraries (scikit-learn, TensorFlow, PyTorch) (2026) 
 -  Tidyfun for functional data (yes, fun is mandatory for my thesis)  
 -  Tidymodels for machine learning (statistical sorcery in R disguise,to be fair reaaly cool package)  
 
